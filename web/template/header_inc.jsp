@@ -207,13 +207,7 @@
                   <p>Valores</p>
                 </a>
               </li>
-              
-              <li class="nav-item">
-                <a href="<%=request.getContextPath()%>/integrantes" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Integrantes</p>
-                </a>
-              </li>
+
             </ul>
             <a href="#" class="nav-link active">
               <i class="nav-icon fas fa-tachometer-alt"></i>
